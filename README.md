@@ -1,6 +1,6 @@
 # Android-Studio-Plugins
 
-#1.[GsonFormat](http://plugins.jetbrains.com/plugin/7654?pr=androidstudio)
+# 1.[GsonFormat](http://plugins.jetbrains.com/plugin/7654?pr=androidstudio)
 快速将json字符串转换成一个Java Bean，免去我们根据json字符串手写对应Java Bean的过程。
 
 ![](http://plugins.jetbrains.com/files/7654/screenshot_15729.png)
